@@ -11,3 +11,4 @@ myst_nb>=0.17.1
 linkchecker>=10.2.1
 sphinx_copybutton>=0.5.1
 markdown-include>=0.6.0
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
